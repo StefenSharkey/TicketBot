@@ -1,0 +1,11 @@
+# Rename this file to sql.yml
+server:
+  ip: "" # Default: ""
+  port: 3306 # Default: 3306
+  protocol: "tcp" # Default: "tcp"
+
+database:
+  dbdriver: "mysql" # Default: "mysql"
+  dbname: "" # Default: ""
+  dbuser: "" # Default: ""
+  dbpassword: "" # Default: ""
